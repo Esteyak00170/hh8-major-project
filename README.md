@@ -19,7 +19,7 @@ ai-security-dashboard/
 └── .gitignore
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/ai-security-dashboard.git
+git clone https://github.com/Esteyak00170/ai-security-dashboard.git
 cd ai-security-dashboard
 2. Setup Environment Variables
 cp .env.example .env
